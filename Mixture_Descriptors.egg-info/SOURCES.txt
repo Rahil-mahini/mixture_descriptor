@@ -1,0 +1,7 @@
+LICENCE
+setup.py
+Mixture_Descriptors.egg-info/PKG-INFO
+Mixture_Descriptors.egg-info/SOURCES.txt
+Mixture_Descriptors.egg-info/dependency_links.txt
+Mixture_Descriptors.egg-info/requires.txt
+Mixture_Descriptors.egg-info/top_level.txt
