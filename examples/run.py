@@ -1,5 +1,5 @@
 # run.py
-from  Mixture-Descriptors import mixture_descriptors_to_csv
+from  Mixture_Descriptors import mixture_descriptors_to_csv
 
 
 if __name__ == '__main__':  
@@ -10,5 +10,4 @@ if __name__ == '__main__':
     
     result = mixture_descriptors_to_csv(desc_file_path, concent_file_path, output_path)
     print (result)
-
 

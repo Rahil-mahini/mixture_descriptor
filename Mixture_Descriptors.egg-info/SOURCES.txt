@@ -1,4 +1,5 @@
 LICENCE
+README.md
 setup.py
 Mixture_Descriptors.egg-info/PKG-INFO
 Mixture_Descriptors.egg-info/SOURCES.txt

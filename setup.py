@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
     
 
 setup(
-    name='Mixture-Descriptors',
+    name='Mixture_Descriptors',
     version='1.0.0',
     packages=find_packages( where = "src"),
     description='Development of Numerical Features/Descriptors to Describe Complex Materials for Machine Learning Modeling',
